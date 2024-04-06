@@ -1,2 +1,5 @@
 rootProject.name = 'otus.javaPro.hw'
+include 'homework1_testing'
+include 'homework2_annotation'
+include 'homework2_annotation'
 
